@@ -15,7 +15,8 @@ header {
     font-size: 1.5rem;
 }
 
-header, form {
+header,
+form {
     display: flex;
     min-height: 20vh;
     align-items: center;
@@ -26,7 +27,8 @@ header h2 {
     text-shadow: 2px 2px 10px #000;
 }
 
-form input, form button {
+form input,
+form button {
     border: none;
     padding: 0.5rem;
     font-size: 2rem;

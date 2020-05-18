@@ -108,7 +108,7 @@ function deleteCheck(event) {
     }
 }
 
-//Filter todo items
+//Filter todo list items
 function filterTodo(event) {
 
     const todos = todoList.childNodes;
